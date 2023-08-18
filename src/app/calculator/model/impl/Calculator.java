@@ -1,4 +1,6 @@
-package app.calculator.model;
+package app.calculator.model.impl;
+
+import app.calculator.model.Calculable;
 
 public class Calculator implements Calculable {
     private double previousResult;
